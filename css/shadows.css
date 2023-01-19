@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+    font-family:'Lucida Sans', cursive;
+    color: rgba(255, 255, 255, 0.534);
+}
+
+a{
+    color:rgba(169, 169, 169, 0.39);
+}
+
+.centered-wrapper{
+    width:800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+}
