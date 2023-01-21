@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    background-image:url("../images/River.png");
+    background-repeat: no-repeat;
+
+    font-family:'Lucida Sans', cursive; 
+    color:cadetblue;
+}
+
+a{
+    color:blanchedalmond;
+}
+
+.centered-wrapper{
+    width:800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.landscape{
+    position: absolute;
+    left:5%;
+    top:3%;
+    text-align: left;
+    width: 400px;
+}
+
+.dusk{
+    position: absolute;
+    left:20%;
+    top:15%;
+    text-align: left;
+    width: 1000px;
+}
+
+.will{
+    position: absolute;
+    left:15%;
+    top:50%;
+    text-align: left;
+    width: 200px;
+}
